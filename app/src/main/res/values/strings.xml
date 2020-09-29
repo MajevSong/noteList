@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">myListApp</string>
+    <string name="clue">What To Do</string>
+    <string name="title">myListApp</string>
+    <string name="content">Times up!</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="init_text">Neurobin Time Picker Example</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="done_label">Done</string>
+    <string name="about">About</string>
+
+    <string name="button_title">Get Bananas</string>
+    <string name="notification_title">Bananas</string>
+    <string name="ticker_count_label">Number of notifications\:</string>
+    <string name="remove">Remove</string>
+    <string name="example"> What to Do </string>
+
+</resources>
